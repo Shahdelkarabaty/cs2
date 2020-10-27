@@ -1,0 +1,5 @@
+Khan    67     101
+John    37     102
+Malak     29     103
+Salah      88     104
+Nami      54     105
